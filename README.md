@@ -13,7 +13,7 @@ FastAPI, Docker, and locally hosted LLMs
 
 ## 🛠️ Technical Skills
 
-**Programming & Platforms: Python, FastAPI, REST APIs, Linux (Ubuntu), Docker, macOS
+**Programming & Platforms:** Python, FastAPI, REST APIs, Linux (Ubuntu), Docker, macOS
 
 **Cybersecurity & Networking:** Network Security, Network Traffic Analysis, PCAP Analysis, Packet Analysis, Wireshark, Threat Detection, C2 Detection, Beaconing Analysis, Network Protocol Analysis
 
