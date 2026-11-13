@@ -30,6 +30,17 @@ Network analysis and threat investigation platform.
 ### QuantumShield — Crypto-Agility Research
 Researching AI-assisted selection of approved cryptographic configurations.
 
+## Awards & Honors
+
+**American Statistical Association DataFest**
+• 4th Place Team; cleaned, merged, and audited 7+ datasets containing 10M+ records, identified data-quality gaps, and developed a 12-month implementation roadmap with measurable KPIs.
+
+**FBLA Cybersecurity**
+• Regional 4th Place and State Medalist; completed a 100-question assessment covering network security, system protection, access control, malware, phishing, encryption, and incident response.
+
+**FBLA Database Application and Design**
+• Regional Champion, State Medalist (6th place), and National Qualifier; designed a relational Microsoft Access database with normalized tables, keys, queries, forms, reports, and relationships.
+
 
 ## Connect With Me
 
