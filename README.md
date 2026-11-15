@@ -1,4 +1,4 @@
-# Hello, I'm Christopher Gray 👋
+# Hello, I'm Christopher Gray
 
 🎓 B.S. Cybersecurity Student at Rider University | Class of Decemember 2028
 
@@ -21,7 +21,7 @@ FastAPI, Docker, and locally hosted LLMs
 
 **Databases:** MongoDB, Milvus, Chroma, Microsoft Access, Relational, NoSQL, and Vector Databases
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects and Experience
 
 ### Hammerhead — AI-Powered Network Forensics
 Network analysis and threat investigation platform.
@@ -29,6 +29,9 @@ Network analysis and threat investigation platform.
 
 ### QuantumShield — Crypto-Agility Research
 Researching AI-assisted selection of approved cryptographic configurations.
+
+### AI Fellow at Handshake
+Curated and labeled datasets, designed evaluation rubrics and training tasks for machine learning and NLP workflows, and documented corrective feedback to improve model reliability.
 
 ## Awards & Honors
 
